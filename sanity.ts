@@ -3,10 +3,10 @@ import createImageUrlBuilder from '@sanity/image-url'
 
 
 export const config = {
-  projectId: process.env.NEXT_PUBLIC_SANITY_PROJECT_ID ,
+  projectId: "zastw76l" ,
   dataset:  "production",
   apiVersion: "2021-10-21",
-  token:process.env.NEXT_PUBLIC_TOKEN,
+  token: "sktW2OHHs2lPtHgasbaW7kbD9kpe6X4KvP77Em15bNh6E06BT5fuVPVCtamnazRVpqgGpAFckPGx8S2g57FV9xcUMjvmJ70XFlA1vtgiwwzkudGeVEMswo2X4K7gaoCRUgcrMalqFGUu40Wp5SHYtJXHlqQFVqj9yYjPVerMIw6kNc5cAZXX",
   useCdn: false,
 }
 

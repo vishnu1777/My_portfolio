@@ -20,7 +20,7 @@ function WorkExperience({experiences}: Props) {
     }}
     className=' flex flex-col relative text-left h-screen overflow-hidden  md:flex-row max-w-full px-10 
     justify-evenly mx-auto items-center'>
-        <h3 className='absolute top-24 xl:top-10 uppercase tracking-[20px] text-gray-500 text-2xl '>
+        <h3 className='absolute top-20 xl:top-16 uppercase tracking-[20px] text-gray-500 text-2xl '>
             Experience
         </h3>
         <div className='w-full flex space-x-5 overflow-x-scroll p-10 snap-x snap-mandatory scrollbar scrollbar-track-gray-400/20

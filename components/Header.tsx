@@ -51,7 +51,7 @@ export default function Header({socials}: Props) {
             duration:1.5,
         }}
         className='flex flex-row items-center text-gray-300 cursor-pointer'>
-         <SocialIcon className='cursor-pointer' network='email' url="https://email.com/jaketrent" fgColor='gray' bgColor='transparent' />
+         <SocialIcon className='cursor-pointer' network='email' url="https://wa.me/qr/OL737JXPP3VLC1" fgColor='gray' bgColor='transparent' />
          <Link href='#contact'>
         <p className='uppercase hidden md:inline-flex text-sm text-grey-400'>Get in touch</p>
         </Link>
